@@ -1,7 +1,6 @@
 import pandas as pd 
 
 df = pd.read_csv('data/export.csv')
-print(df.head())
 # print(df.head())
 
 # print(df.describe())
@@ -16,6 +15,6 @@ print(df.head())
 # print(df['Status'].unique())
 # print(df['Crm Cd 1'].unique())
 # print(df['Mocodes'].unique())
-# print(df['Cross Street'].unique()
-import os 
-print(os.getcwd())
+# print(df['Cross Street'].unique())
+
+
